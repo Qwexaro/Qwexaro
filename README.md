@@ -37,11 +37,11 @@ interest in strictly-typed systems and clean architecture.
 
 ## 📊 GitHub Stats & Performance
 
-![Qwexaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qwexaro&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true)
+![Qwexaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qwexaro&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qwexaro&layout=compact&count_private=true&langs_count=8&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qwexaro&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Qwexaro&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Qwexaro&theme=tokyonight&hide_border=true)
 
 ---
 
